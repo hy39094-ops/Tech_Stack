@@ -28,7 +28,20 @@ inspecter로 android uiautomator/ ID 확인
 
 
 
-appium 실행  
+
+
+
+https://github.com/user-attachments/assets/6d6ba51c-84ac-44cc-88b1-1b48623c489d 
+appium 실행 영상 
+
+
+
+
+
+
+
+
+
 
 
 
