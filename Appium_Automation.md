@@ -30,7 +30,8 @@ iOS의 경우 xcode 연결하여 webdriver agent 설치 후 사용(자동화 구
 
 
 
-appium 실행 영상  <br>
+appium 실행 영상  
+<br> 
 https://github.com/user-attachments/assets/6d6ba51c-84ac-44cc-88b1-1b48623c489d 
 
 
