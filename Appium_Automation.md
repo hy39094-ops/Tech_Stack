@@ -31,7 +31,7 @@ I. 로케이터는 pages 탭의 page에서 정의
 II. 자동화는 teset의 시나리오에서 진행하되 page에서 설정한 로케이터를 참조하도록 구현 
 <br>
 <br> 
-appium 실행 영상 
+간소화 appium 실행 영상
 <br> 
 https://github.com/user-attachments/assets/6d6ba51c-84ac-44cc-88b1-1b48623c489d 
 
