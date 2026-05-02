@@ -23,7 +23,7 @@ iOS의 경우 xcode 연결하여 webdriver agent 설치 후 사용(자동화 구
 1. 로케이터는 pages 탭의 page에서 정의 
 
 <img width="1004" height="289" alt="스크린샷 2026-05-03 오전 4 35 14" src="https://github.com/user-attachments/assets/63c85ba3-7736-4abf-a40e-185d3f0cf14c" /> 
-2. 자동화는 teset의 시나리오에서 진행하되 page에서 설정한 로케이터를 참조하도록 구현 
+2. 자동화는 teset의 시나리오에서 진행하되 page에서 설정한 로케이터를 참조하도록 구현  <br>
 
 
 
