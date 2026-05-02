@@ -24,10 +24,10 @@ iOS의 경우 xcode 연결하여 webdriver agent 설치 후 사용(자동화 구
 <br> 
 <br> 
 <img width="1010" height="373" alt="스크린샷 2026-05-03 오전 4 34 55" src="https://github.com/user-attachments/assets/c14bdca4-8b01-4214-b7e7-b5ace02b8311" /> 
-1. 로케이터는 pages 탭의 page에서 정의 
+I. 로케이터는 pages 탭의 page에서 정의 
 <br> 
 <img width="1004" height="289" alt="스크린샷 2026-05-03 오전 4 35 14" src="https://github.com/user-attachments/assets/63c85ba3-7736-4abf-a40e-185d3f0cf14c" /> 
-2. 자동화는 teset의 시나리오에서 진행하되 page에서 설정한 로케이터를 참조하도록 구현 
+II. 자동화는 teset의 시나리오에서 진행하되 page에서 설정한 로케이터를 참조하도록 구현 
 <br>
 <br> 
 appium 실행 영상 
