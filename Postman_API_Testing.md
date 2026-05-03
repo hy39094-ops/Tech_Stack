@@ -22,7 +22,7 @@ Jsonplaceholder의 mock api를 기반으로 작성
 <br>
 <br>
 <img width="583" height="108" alt="스크린샷 2026-05-03 오후 2 44 36" src="https://github.com/user-attachments/assets/16001c11-f931-4b7b-acfb-2bd784494b78" />
-크론탭에서 api test 하고 싶은 날(e.g. 월~금 영업일) 설정해두면 특정 요일 및 시간에 자동으로 테스트가 실행, 보고서 발행 됨
+crontab -e에서 정기적으로 api test가 필요한 경우(e.g. 월~금 영업일) 특정 요일 및 시간에 자동으로 테스트가 실행, 성공/실패 보고서 발행 됨
 <br>
 <br>
 <img width="985" height="356" alt="스크린샷 2026-05-03 오후 2 46 04" src="https://github.com/user-attachments/assets/91d1fb39-bf8e-4d50-82ab-507cad9aea4d" />
