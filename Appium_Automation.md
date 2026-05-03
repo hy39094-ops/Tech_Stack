@@ -12,7 +12,7 @@ appium v. 3.3.0
 <br> 
 <br> 
 <img width="1654" height="693" alt="스크린샷 2026-05-03 오전 4 31 53" src="https://github.com/user-attachments/assets/27463e8f-5234-4379-b310-f224f7966d32" /> 
-inspecter로 android uiautomator/ ID 확인
+inspecter로 android uiautomator/ ID / XPath 확인
 <br> 
 iOS의 경우 xcode 연결하여 webdriver agent 설치 후 사용(자동화 구현방법은 동일)
 <br>
