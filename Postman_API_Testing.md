@@ -27,3 +27,11 @@ Jsonplaceholder의 mock api를 기반으로 작성
 <br>
 <img width="985" height="356" alt="스크린샷 2026-05-03 오후 2 46 04" src="https://github.com/user-attachments/assets/91d1fb39-bf8e-4d50-82ab-507cad9aea4d" />
 슬랙 webhook 연동을 통해 테스트 성공/실패 유무를 채널로 받아 볼 수도 있음
+
+
+<img width="428" height="110" alt="스크린샷 2026-05-03 오후 3 28 11" src="https://github.com/user-attachments/assets/75d9d48f-2435-405e-81a8-d0c916943e9c" />
+모든 api test가 200/201로 떨어진 경우(성공)
+<br>
+<br>
+<img width="465" height="97" alt="스크린샷 2026-05-03 오후 3 28 04" src="https://github.com/user-attachments/assets/caa5993e-915a-4bb3-858e-f71e2da04e94" />
+1개 이상의 api test에서 200/201 외의 값이 있는 경우(실패)
