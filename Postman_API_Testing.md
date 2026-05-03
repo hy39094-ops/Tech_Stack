@@ -18,7 +18,7 @@ Jsonplaceholder의 mock api를 기반으로 작성
 이후 보고서 형식의 newman 파일 생성
 
 <img width="1073" height="328" alt="스크린샷 2026-05-03 오후 3 06 20" src="https://github.com/user-attachments/assets/d6fbed02-4100-4c4f-b641-91899b985d69" />
-실패한 경우, Failed Tests 탭에서 실패 원인 확인할 수 있음(400/404/500 그 외)
+만약 실패한 경우 Failed Tests 탭에서 실패 원인 확인할 수 있음(400/404/500 그 외)
 
 
 
