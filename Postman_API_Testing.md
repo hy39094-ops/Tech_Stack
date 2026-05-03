@@ -3,7 +3,7 @@ Postman_API_Testing<br>
 Postman과 Newman, CronTab 세팅을 통한 API 자동화 구현<br>
 
 용도: dev/prod API TEST 및 테스트 보고서 자동화<br>
-Jsonplaceholder의 mock api를 기반으로 작성
+아래 내용은 Jsonplaceholder의 mock api(Public)를 기반으로 작성
 <br>
 <br>
 <img width="985" height="517" alt="스크린샷 2026-05-03 오후 2 40 39" src="https://github.com/user-attachments/assets/2c89fa21-111e-4c4e-b523-df922f3ca28b" />
