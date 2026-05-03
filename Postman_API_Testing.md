@@ -1,4 +1,5 @@
-Postman_API_Testing
+Postman_API_Testing<br>
+---------------------------------------------------------------------------
 Postman과 Newman, CronTab 세팅을 통한 API 자동화 구현<br>
 
 용도: dev/prod API TEST 및 테스트 보고서 자동화<br>
