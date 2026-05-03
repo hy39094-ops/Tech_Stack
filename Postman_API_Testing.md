@@ -1,7 +1,8 @@
 Postman_API_Testing
-Postman과 Newman, CronTab 세팅을 통한 API 자동화 구현
+Postman과 Newman, CronTab 세팅을 통한 API 자동화 구현<br>
 
-용도: dev/prod API TEST 및 테스트 보고서 자동화 
+용도: dev/prod API TEST 및 테스트 보고서 자동화<br>
+
 Jsonplaceholder의 mock api를 기반으로 작성
 <br>
 <br>
