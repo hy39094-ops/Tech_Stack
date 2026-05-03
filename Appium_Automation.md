@@ -20,7 +20,7 @@ iOS의 경우 xcode 연결하여 webdriver agent 설치 후 사용(자동화 구
 <img width="1320" height="489" alt="스크린샷 2026-05-03 오전 4 33 48" src="https://github.com/user-attachments/assets/b76400a2-eaa8-462e-ad45-2c14d4ec3f6d" />
 실제 코드는 유지보수성을 감안하여 클린코드로 진행 
 <br> 
-(pages / tests로 분리) 
+(로케이터는 pages / 시나리오는 tests로 분리) 
 <br> 
 <br> 
 <img width="1010" height="373" alt="스크린샷 2026-05-03 오전 4 34 55" src="https://github.com/user-attachments/assets/c14bdca4-8b01-4214-b7e7-b5ace02b8311" /> 
