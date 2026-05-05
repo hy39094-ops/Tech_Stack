@@ -28,12 +28,10 @@ FROM Interest_Group_Items <BR>
 WHERE group_id = 'favorite_group'<BR> 
 ORDER BY sort_order ASC;<BR>
 <BR>
-<BR>
 Case 1: DB 내 sort_order 값은 정상적으로 변경된 경우<BR>
 현상: SQL 결과에서는 사용자가 수정한 순서(0, 1, 2...)대로 데이터가 찍히지만, 앱 UI에서는 이전 순서로 보임.<BR>
 판단: 로컬 DB 저장 로직은 정상이나, UI를 그려주는 클라이언트가 DB에서 데이터를 새로 불러오지(Fetch) 않거나 캐시된 데이터를 계속 보여주는 상태임.<BR>
 결론: 클라이언트(Client) UI 렌더링 및 캐시 갱신 이슈로 분류.<BR>
-<BR>
 <BR>
 Case 2: DB 내 sort_order 값이 이전 상태 그대로인 경우<BR>
 현상: SQL 결과값이 사용자가 편집한 순서가 아닌, 예전 순서 그대로 저장되어 있음.<BR>
