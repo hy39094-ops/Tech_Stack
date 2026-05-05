@@ -1,7 +1,7 @@
 Android_Studio_SQL
 ------------------------------------
 용도: UI상 데이터 중복 노출 발생 시 App Inspection 기능 사용<BR> 
-로컬 DB 무결성 검증을 통한 이슈(클라/서버) 분리 및 Root Cause 분석. 
+로컬 DB 무결성 검증을 통한 이슈(클라/서버) 분리 및 Root Cause 분석 
 <BR>
 <BR>
 
