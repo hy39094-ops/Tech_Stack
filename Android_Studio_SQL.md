@@ -19,9 +19,6 @@ Case 2: 쿼리 결과가 2개인 경우(DB 중복)<BR>
 <BR>
 <BR>
 <BR>
-<BR>
-<BR>
-<BR>
 실무 활용2: 관심그룹 내 종목편집을 실행하여 목록 순서를 변경하였지만, 목록 변경이 되지 않는 경우<BR>
 SELECT stock_name, sort_order <BR>
 FROM Interest_Group_Items <BR>
